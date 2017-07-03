@@ -1,2 +1,0 @@
-# gmod-server-files
-selfexplanatory
